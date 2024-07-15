@@ -5,10 +5,10 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 
 ## Index
 
-- [Project Theory](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient#project-theory)
-- [How to Run](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient#How-to-Run)
-- [Demo](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient#Demo)
-- [Contributing](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient#contributing)
+- Project Theory
+- How to Run
+- Demo
+- Contributing
 
 ## Project Theory
 
@@ -60,7 +60,7 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 ## How to Run
 
 ```bash
-$ git clone https://github.com/Sourav/MultiThreadedProxyServerClient.git
+$ git clone https://github.com/Sourav-Nath01/MultiThreadedProxyServerClient.git
 $ cd MultiThreadedProxyServerClient
 $ make all
 $ ./proxy <port no.>
@@ -78,7 +78,6 @@ $ ./proxy <port no.>
 
 ## Contributing
 
-[[Back to top]](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient#index)
 
 Feel free to add some useful. You can see `How this code can be extended`. Use ideas from there and feel free to fork and CHANGE. 
 
